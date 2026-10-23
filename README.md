@@ -1,6 +1,13 @@
-# FixLens — Prototype 0.1
+## 🚀 Live Demo
 
-A polished, front-end-only prototype for guided laptop troubleshooting. It uses a transparent rule-based decision tree; it does not use a trained AI model or make definitive hardware diagnoses.
+[**Open FixLens→**]   
+https://fixlens-c4z3.onrender.com
+
+## 💡 About FixLens
+
+FixLens is a web-based laptop troubleshooting platform that helps users identify possible causes of common laptop problems and follow step-by-step solutions.
+
+It uses predefined, rule-based logic to analyze user responses and suggest troubleshooting steps.
 
 ## Run locally
 
